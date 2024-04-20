@@ -1,4 +1,4 @@
-# Summer Wanders
+# Summer Wanders 🌞✈️
 
 ## Overview
 
@@ -41,3 +41,7 @@ Summer Wanders is a web and mobile application designed to assist travelers in f
 - Tailwind CSS
 - Weather APIs (OpenWeatherMap)
 - HTML, CSS, JavaScript
+
+##
+
+Happy travels with Summer Wanders! 🌞✈️
