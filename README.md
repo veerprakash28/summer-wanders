@@ -6,7 +6,7 @@ Summer Wanders is a web and mobile application designed to assist travelers in f
 
 ## Live Demo
 
-[Explore Summer Wanders](#) (Live link to be inserted)
+[Explore Summer Wanders](https://summerwanders.netlify.app/)
 
 ## Features
 
@@ -28,12 +28,16 @@ Summer Wanders is a web and mobile application designed to assist travelers in f
    `cd summer-wanders`
    `npm install`
 
-3. **Run the Application**
+3. **Add .env file**
+   Create an .env file in the directory with key `REACT_APP_API_KEY`
+   Add your OpenWeatherMap API_KEY to that
+
+4. **Run the Application**
    `npm start`
 
 ## Technologies Used
 
-- React (or Flutter for mobile version)
-- Weather APIs (e.g., OpenWeatherMap)
+- React
+- Tailwind CSS
+- Weather APIs (OpenWeatherMap)
 - HTML, CSS, JavaScript
-- (Additional technologies as required)
